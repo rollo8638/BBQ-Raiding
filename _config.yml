@@ -4,8 +4,8 @@ theme: just-the-docs
 
 url: https://rollo8638.github.io/BBQ-Raiding/
 
-plugins:
-  - jekyll-default-layout
+# plugins:
+#   - jekyll-default-layout
   
 aux_links:
   Template Repository: https://github.com/rollo8638/BBQ-Raiding/
