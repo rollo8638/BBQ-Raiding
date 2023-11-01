@@ -1,6 +1,7 @@
 ---
 title: Aloala Island
 layout: default
+has_toc: true
 parent: v&C
 permalink: /v&C/aai/
 nav_order: 4
