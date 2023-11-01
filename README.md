@@ -3,6 +3,7 @@ title: Home
 descruption: Heehee HAHA hahaha HEEHEE haha HEEEEEE!!!
 nav_order: 1
 permalink: /
+layout: default
 ---
 # BBQ Raiding
 in the making
