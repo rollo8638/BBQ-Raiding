@@ -1,8 +1,9 @@
 ---
 title: Mount Rokkon
-nav_order: 3
+layout: default
 parent: v&C
 permalink: /v&C/amr/
+nav_order: 3
 ---
 # Mount Rokkon
 - coming soon

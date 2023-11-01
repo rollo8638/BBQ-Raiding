@@ -1,9 +1,10 @@
 ---
 title: V&C Dungeon
+layout: default
 has_toc: true
-nav_order: 2
 has_children: true
 permalink: /v&c/
+nav_order: 2
 ---
 # V&C Dungeons
 - [**Mount Rokkon**](./amr/README.md)

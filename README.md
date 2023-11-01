@@ -1,12 +1,16 @@
 ---
 title: Home
 descruption: Heehee HAHA hahaha HEEHEE haha HEEEEEE!!!
-nav_order: 1
-permalink: /
 layout: default
+permalink: /
+nav_order: 1
 ---
 # BBQ Raiding
 in the making
 
-## [Criterion Dungeons](/criterion_dungeon/README.md)
-- **AMR** - [AMR](/criterion_dungeon/AMR/README.md)
+## [V&C Dungeons](/v&c/README.md)
+- [**Mount Rokkon**](/v&c/amr/README.md)
+- - [**Another Mount Rokkon**](/v&c/amr/README.md)
+
+- [**Aloala Island**](/v&c/aai/README.md)
+- - [**Another Aloala Island**](/v&c/aai/README.md)
