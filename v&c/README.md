@@ -7,6 +7,6 @@ permalink: /v&c/
 nav_order: 2
 ---
 # V&C Dungeons
-- [**Mount Rokkon**](/amr/)
-- [**Aloala Island**](/aai/)
+- [**Mount Rokkon**](./amr/)
+- [**Aloala Island**](./aai/)
 
