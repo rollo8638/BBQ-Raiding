@@ -1,7 +1,6 @@
 ---
 title: V&C Dungeon
 layout: default
-#has_toc: true
 has_children: true
 permalink: /v&c/
 nav_order: 2
