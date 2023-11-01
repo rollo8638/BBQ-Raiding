@@ -2,7 +2,7 @@
 title: Aloala Island
 layout: default
 has_toc: true
-parent: v&C
+parent: V&C Dungeon
 permalink: /v&C/aai/
 nav_order: 4
 ---

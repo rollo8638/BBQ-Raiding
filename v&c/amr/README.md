@@ -2,7 +2,7 @@
 title: Mount Rokkon
 layout: default
 has_toc: true
-parent: v&C
+parent: V&C Dungeon
 permalink: /v&C/amr/
 nav_order: 3
 ---
